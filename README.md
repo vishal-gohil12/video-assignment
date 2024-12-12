@@ -36,14 +36,15 @@ Before you can run this project, make sure you have the following installed:
    ```
 
 3. Install dependencies:
+
    ```bash
    yarn
    ```
 
-4 .Running the Project
-Start the development server:
-```bash
-yarn dev
+4. Running the Project
+   ```bash
+   yarn dev
+   ```
 
 ## Built With
 
